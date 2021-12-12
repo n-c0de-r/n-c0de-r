@@ -1,5 +1,5 @@
 
-![Logo](/images/imi-logo.png)
+![Logo](/images/logo_imi.png)
 
 
 
