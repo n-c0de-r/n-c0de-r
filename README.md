@@ -5,6 +5,8 @@
 
 ### Hi there 👋
 
+<img src="/image/logo_n-c0de-r_alpha.gif">
+
 <!--
 **n-c0de-r/n-c0de-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
