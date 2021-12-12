@@ -1,3 +1,8 @@
+
+![Logo](/images/imi-logo.png)
+
+
+
 ### Hi there 👋
 
 <!--
