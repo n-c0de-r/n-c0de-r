@@ -1,4 +1,4 @@
-<img src="/images/logo_n-c0de-r_alpha.gif">
+[![Logo](/images/logo_n-c0de-r_alpha.gif)(https://www.fiverr.com/n-c0de-r)}
 
 
 ### Hi there 👋
@@ -17,17 +17,9 @@ Let's see what template questions we have here:
 
 
 ### Other than that I'm striving to make my graduation in...
-![Logo](/images/logo_imi_alpha.png)
+[![Logo](/images/logo_imi_alpha.png)](https://imi-bachelor.htw-berlin.de)
 
 ## 🔗 Links - 📫 How to reach me: ...
 [![portfolio](https://img.shields.io/badge/Fiverr-000?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=brightgreen&color=brightgreen)](https://www.fiverr.com/n_c0de_r)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-c0de-r)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n_c0de_r)
-
-<!--
-**n-c0de-r/n-c0de-r** is a  because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
