@@ -1,7 +1,7 @@
-[![Animated n-c0de-r Logo](./images/logo_n-c0de-r_alpha.gif)](https://n-c0de-r.github.io)
-
 ## `About.Me`
-I'm studying International Media & Informatics (IMI) in the 5th semester. Learning is the most important skill and doing so in a playful way is the most effective and natural, I believe.
+Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 5th semester. Learning is the most important skill, and I believe that doing so in a playful, curiousity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games.
+
+While learning the ropes of fullstack development, I expolre how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.
 
 Curently working as a student tutor, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
 
@@ -10,8 +10,8 @@ Curently working as a student tutor, gaining experience in didactics, and expand
 
 - 🔭 When I'm not preparing classes or tutoring, I try to learn more about Game Based Learning.
 - 🎮 Learning Godot & GDScript, Unity & C#. Since I see myself in EduTech and Gamification.
-      Currently doing courses on game engines, physics and AI, while fidgeting with some projects in my free time.
-- 🌱 Like Web Dev + JS too, and gained experience with TypeScript.
+      Currently doing courses on game engines, physics and AI, while fidgeting with some projects in my free time to show the skills.
+- 🌱 Into Web Dev + JS too, and gained experience with TypeScript. Would love to make more cross-platform web apps.
 - 👯 Looking for an internship abroad in summer '23 and a long-term working student opportunity after that.
 - 💬 Ask me about pixelart, edutech, good storytelling & game design. I'm a beginner, but passionate about these.
 
@@ -35,6 +35,8 @@ Curently working as a student tutor, gaining experience in didactics, and expand
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <br /><br />
+
+[![Animated n-c0de-r Logo](./images/logo_n-c0de-r_alpha.gif)](https://n-c0de-r.github.io)
 
 ---
 
@@ -64,7 +66,7 @@ UI fixes & basic animations.
 #
 [TaurosTraps](https://github.com/n-c0de-r/TaurosTraps) | Unity / C#
 --- | :---:
-Create perfect mazes to trap the mythological Tauros in - just as Daidalos would have. Just a prototype. | [![Tauros Traps Icon](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
+Create perfect mazes to trap the mythological Tauros - just as Daidalos intended. Learned new algorithms in this assessment. | [![Tauros Traps Icon](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
 
 ```
 By me:
@@ -100,6 +102,6 @@ By me:
 Idea, Implementation, UI,
 Documentation, basic testing
 ```
-</details>
 
 Some more below and [many others here...](https://github.com/n-c0de-r?tab=repositories)
+</details>
