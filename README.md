@@ -66,7 +66,7 @@ UI fixes & basic animations.
 #
 [TaurosTraps](https://github.com/n-c0de-r/TaurosTraps) | Unity / C#
 --- | :---:
-Create perfect mazes to trap the mythological Tauros - just as Daidalos intended. Learned new algorithms in this assessment. | [![Tauros Traps Icon](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
+Create perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment. | [![Tauros Traps Icon](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
 
 ```
 By me:
