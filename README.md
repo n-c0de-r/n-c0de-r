@@ -45,7 +45,7 @@ For a more detailed description and implementation details, click the title or t
 
 [StegaNotes](https://github.com/n-c0de-r/StegaNotes) | &emsp; HTML5 / JS &emsp;
 --- | :---:
-A Note taking cross-platform app, that is able to hide texts using simple steganography. &emsp; | [![StegaNotes Icon](./images/StegaNotes_Icon.png)](https://github.com/n-c0de-r/StegaNotes)
+A Note taking cross-platform app, that is able to hide texts using simple steganography. It is designed as a Offline-First minimalistic PWA. Made and works without frameworks or other heavy-weight "help" to reduce data load. &emsp; | [![StegaNotes Icon](./images/StegaNotes_Icon.png)](https://github.com/n-c0de-r/StegaNotes)
 
 ```
 By me:
