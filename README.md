@@ -73,16 +73,6 @@ Objects design, energy recharge interface,
 UI fixes & basic animations. 
 ```
 #
-[Tauros Traps](https://github.com/n-c0de-r/TaurosTraps) | Unity / C#
---- | :---:
-Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment. | [![Tauros Traps Icon](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
-
-```
-By me:
-Idea, design, implementation,
-art retouch, UI, documentation
-```
-#
 [Gamified Moodle](https://github.com/n-c0de-r/GamifiedMoodle) | Moodle / HTML5
 --- | :---:
 Created a data-driven, enhanced, gamified Moodle course for tutoring. Using various plugins & web-design. | [![Gamified Moodle Icon](./images/GamifiedMoodle_Icon.png)](https://github.com/n-c0de-r/GamifiedMoodle)
@@ -117,6 +107,16 @@ Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to
 <details>
 <summary>Older.Projects</summary>
 
+[Tauros Traps](https://github.com/n-c0de-r/TaurosTraps) | Unity / C#
+--- | :---:
+Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment. | [![Tauros Traps Icon](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
+
+```
+By me:
+Idea, design, implementation,
+art retouch, UI, documentation
+```
+#
 [Omnis](https://github.com/n-c0de-r/Omnis) | Godot3 / GDscript
 --- | :---:
 A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind. &emsp; | [![Omnis Icon](./images/Omnis_Icon.png)](https://github.com/n-c0de-r/Omnis)
