@@ -109,7 +109,7 @@ art retouch, UI, documentation
 --- | :---:
 Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. | [![WIP Icon](./images/WIP_Icon.png)](https://github.com/n-c0de-r/Omnis)
 #
-[Rewrite my personal GitHub Page in (almost) CSS only](https://github.com/n-c0de-r/n-c0de-r.github.io) | HTML5 / CSS
+[Rewrite my personal GitHub Page in (almost) CSS only](https://github.com/n-c0de-r/n-c0de-r.github.io) | HTML5 / CSS /NoJS
 --- | :---:
 Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, whil still being a minimalistic, not bloated but fun experience. Also to train CSS, of course! | [![WIP Icon](./images/WIP_Icon.png)](https://github.com/n-c0de-r/n-c0de-r.github.io)
 </details>
