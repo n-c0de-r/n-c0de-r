@@ -43,7 +43,7 @@ Currently working as a student tutor, gaining experience in didactics, and expan
 ## `Recent.Projects:`
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
 
-[StegaNotes](https://github.com/n-c0de-r/StegaNotes) | &emsp;&emsp; HTML5 / JS &emsp;&emsp;
+[StegaNotes](https://github.com/n-c0de-r/StegaNotes) | HTML5 / JS
 --- | :---:
 An offline-firstm minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load. | [![StegaNotes Icon](./images/StegaNotes_Icon.png)](https://github.com/n-c0de-r/StegaNotes)
 
