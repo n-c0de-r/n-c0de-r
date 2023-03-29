@@ -1,9 +1,11 @@
 ## `About.Me`
-Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 5th semester. Learning is the most important skill, and I believe that doing so in a playful, curiousity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games.
+Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 5th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.
 
-While learning the ropes of fullstack development, I expolre how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.
+While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.
 
-Curently working as a student tutor, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
+Currently working as a student tutor, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
+
+
 
 <details>
       <summary>additional.info</summary>
@@ -43,12 +45,21 @@ Curently working as a student tutor, gaining experience in didactics, and expand
 ## `Recent.Projects:`
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
 
+[StegaNotes](https://github.com/n-c0de-r/StegaNotes) | &emsp; HTML5 / JS &emsp;
+--- | :---:
+A Note taking cross-platform app, that is able to hide texts using simple steganography. &emsp; | [![StegaNotes Icon](./images/StegaNotes_Icon.png)](https://github.com/n-c0de-r/StegaNotes)
+
+```
+By me:
+Idea, design, implementation,
+art retouch, UI, documentation
+```
+#
 [NightLifeDrive](https://github.com/n-c0de-r/NightLifeDrive) | &emsp; Unity / C# &emsp;
 --- | :---:
 An endless racer where you take a chill drive on neon-lit streets while listening to synthwave music.&emsp; | [![NightLifeDrive Icon](./images/NightLifeDrive_Icon.png)](https://github.com/n-c0de-r/NightLifeDrive)
 ```
 By me (as part of the U-Knights Team):
-
 Random track generation, object spawning,
 score counter, song display, name inputs,
 glowing materials, particle animations,
@@ -85,9 +96,30 @@ art retouch, UI, documentation
 ```
 
 <details>
+<summary>Works.In.Progress</summary>
+
+[TowerDefense](https://github.com/n-c0de-r/TowerDefense) | Godot4 / GDscript2
+--- | :---:
+Teaching an AI to dive and collect pearls in a predefined environment as part of the GameAI course. &emsp; | [![DiveAI Icon](./images/WIP_Icon.png)](https://github.com/n-c0de-r/TowerDefense)
+```
+By me:
+Idea, design, implementation,
+art retouch, UI, documentation
+```
+#
+[Omnis Rewrite in Godot4](https://github.com/n-c0de-r/Omnis) | Godot4 / GDscript2
+--- | :---:
+Rewriting and finishing the old Omnis project in Godot4. &emsp; | [![Omnis Icon](./images/WIP_Icon.png)](https://github.com/n-c0de-r/Omnis)
+#
+[Rewrite my personal GitHub Page in (almost) CSS only](https://github.com/n-c0de-r/n-c0de-r.github.io) | HTML5 / CSS
+--- | :---:
+Making a new portfolio page, purely in HTML and CSS - hidden for now. &emsp; | [![Omnis Icon](./images/WIP_Icon.png)](https://github.com/n-c0de-r/n-c0de-r.github.io)
+</details>
+
+<details>
 <summary>Older.Projects</summary>
 
-[Omnis](https://github.com/n-c0de-r/Omnis) | Godot / GDscript
+[Omnis](https://github.com/n-c0de-r/Omnis) | Godot3 / GDscript
 --- | :---:
 A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind. &emsp; | [![Omnis Icon](./images/Omnis_Icon.png)](https://github.com/n-c0de-r/Omnis)
 ```
