@@ -12,7 +12,7 @@ Currently working as a student tutor, gaining experience in didactics, and expan
 - 🎮 Learning Godot & GDScript, Unity & C#. Since I see myself in EduTech and Gamification.
       Currently doing courses on game engines, physics and AI, while fidgeting with some projects in my free time to show the skills.
 - 🌱 Into Web Dev + JS too, and gained experience with TypeScript. Would love to make more cross-platform web apps.
-- 👯 Looking for an internship abroad in summer '23 and a long-term working student opportunity after that.
+- 👯 Starting my internship abroad in winter '23, making Serious Games with [RisingPixel](https://www.risingpixel.com/) and hoping for a long-term working student opportunity after that.
 - 💬 Ask me about pixelart, edutech, good storytelling & game design. I'm a beginner, but passionate about these.
 
 ### Other than that I'm striving to make my graduation in...
