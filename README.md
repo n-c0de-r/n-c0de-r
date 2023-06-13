@@ -23,7 +23,7 @@ Currently working as a student tutor, gaining experience in didactics, and expan
 
 <br />
 
-###  `📖 Knowledge.Set`
+###  `💾 Knowledge.Set`
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -42,7 +42,7 @@ Currently working as a student tutor, gaining experience in didactics, and expan
 
 ---
 
-## `💾 Recent.Projects:`
+## `⚗️ Recent.Projects:`
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
 
 [StegaNotes](https://github.com/n-c0de-r/StegaNotes) | &emsp; HTML5 / JS &emsp;
@@ -107,7 +107,7 @@ Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to
 </details>
 
 <details>
-<summary>👨‍💻 Older.Projects</summary>
+<summary>📜 Older.Projects</summary>
 
 [Tauros Traps](https://github.com/n-c0de-r/TaurosTraps) | Unity / C#
 --- | :---:
