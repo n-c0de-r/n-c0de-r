@@ -5,7 +5,7 @@ While learning the ropes of full-stack development, I explore how gamification c
 
 Currently working as a student tutor, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
 
-###  [`Mail.Me 📧`](mailto:n-c0de-r_contact@e.mail.com)
+###  <a href="mailto:n-c0de-r_contact@e.mail.com?subject=Hello from GitHub">`📧 Contact.Me`</a>
 
 <details>
       <summary>additional.info</summary>
