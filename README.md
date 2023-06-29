@@ -1,5 +1,5 @@
 ## `🤖 About.Me`
-Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 5th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.
+Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.
 
 While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.
 
