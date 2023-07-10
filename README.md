@@ -45,6 +45,16 @@ Currently working as a student tutor, gaining experience in didactics, and expan
 ## `⚗️ Recent.Projects:`
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
 
+#
+[WaveMaker](https://github.com/IMIaculate-Games/WaveMaker) | &emsp; Unity / C# &emsp;
+--- | :---:
+A reverse tower defense game for the topic "Reversed Roles" of [GMTK Game Jam 23](https://itch.io/jam/gmtk-2023) where you play the waves.&emsp; | [![WaveMaker_Icon](./images/WaveMaker_Icon.png)](https://github.com/IMIaculate-Games/WaveMaker)
+```
+By me (as part of the IMIaculate-Games Team):
+Random tower placement script, Unity teaching,
+GUI setup and editing, various bugfixes
+```
+#
 [StegaNotes](https://github.com/n-c0de-r/StegaNotes) | &emsp; HTML5 / JS &emsp;
 --- | :---:
 An offline-firstm minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load. | [![StegaNotes Icon](./images/StegaNotes_Icon.png)](https://github.com/n-c0de-r/StegaNotes)
