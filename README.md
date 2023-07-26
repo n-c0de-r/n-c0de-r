@@ -46,6 +46,14 @@ Currently working as a student tutor, gaining experience in didactics, and expan
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
 
 #
+[MCE-Translator](https://github.com/SilenceBreakers/NUI-MCE-Translator) | &emsp; Unity / C# &emsp;
+--- | :---:
+A Unity-based prototype application that allows users to use sign language gestures for vowels and numbers to translate them to text on screen and speech to audio. | [![MCE-Translator_Icon](./images/MCE-Translator_Icon.png)](https://github.com/SilenceBreakers/NUI-MCE-Translator)
+```
+Mostly backend and Unity guidance,
+also programming a gesture recorder.
+```
+#
 [WaveMaker](https://github.com/IMIaculate-Games/WaveMaker) | &emsp; Unity / C# &emsp;
 --- | :---:
 A reverse tower defense game for the topic "Reversed Roles" of [GMTK Game Jam 23](https://itch.io/jam/gmtk-2023) where you play the waves.&emsp; | [![WaveMaker_Icon](./images/WaveMaker_Icon.png)](https://github.com/IMIaculate-Games/WaveMaker)
