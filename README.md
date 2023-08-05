@@ -51,12 +51,14 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/ChariotGames/I-Cant-C-Sharp">I Can't C#</a> (Unity / C#)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
-        <p>No, it is NOT a C# learning app!<br>
-        Part of the <a href="https://showtime.f4.htw-berlin.de">summer of '23 bachelor's showtime</a> project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.</p>
+      </td>
+      <td>
+        No, it is NOT a C# learning app!<br>
+        Part of the <a href="https://showtime.f4.htw-berlin.de">summer of '23 bachelor's showtime</a> project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.
       </td>
     </tr>
   </table>
@@ -70,11 +72,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/SilenceBreakers/NUI-MCE-Translator">MCE-Translator</a> (Unity / C#)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/SilenceBreakers/NUI-MCE-Translator"><img src="./images/MCE-Translator_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="MCE-Translator"></a>
-      <p>A Unity-based prototype application that allows users to use sign language gestures for vowels and numbers to translate them to text on screen and speech to audio.</p>
+      </td>
+      <td>
+        A Unity-based prototype application that allows users to use sign language gestures for vowels and numbers to translate them to text on screen and speech to audio.
       </td>
     </tr>
   </table>
@@ -89,11 +93,14 @@ For a more detailed description and implementation details, click the title or t
 <figure>
   <figcaption><a href="https://github.com/IMIaculate-Games/WaveMaker">WaveMaker</a> (Unity / C#)</figcaption>
   
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/IMIaculate-Games/WaveMaker"><img src="./images/WaveMaker_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="WaveMaker"></a>
-        <p>A reverse tower defense game for the topic "Reversed Roles" of <a href="https://itch.io/jam/gmtk-2023">GMTK Game Jam 23</a> where you create and play the waves.</p>
+      </td>
+      <td>
+        A reverse tower defense game for the topic "Reversed Roles" of <a href="https://itch.io/jam/gmtk-2023">GMTK Game Jam 23</a> where you create and play the waves.
+      </td>
       </td>
     </tr>
   </table>
@@ -108,11 +115,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/StegaNotes">StegaNotes</a> (HTML5 / JS)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/StegaNotes"><img src="./images/StegaNotes_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="StegaNotes"></a>
-        <p>An offline-first, minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load.</p>
+      </td>
+      <td>
+        An offline-first, minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load.
       </td>
     </tr>
   </table>
@@ -126,11 +135,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/NightLifeDrive">NightLifeDrive</a> (Unity / C#)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/NightLifeDrive"><img src="./images/NightLifeDrive_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="NightLifeDrive"></a>
-        <p>An endless racer where you take a chill drive on neon-lit streets while listening to synthwave music.</p>
+      </td>
+      <td>
+        <p>An endless racer where you take a chill drive on neon-lit streets while listening to synthwave music.
       </td>
     </tr>
   </table>
@@ -144,11 +155,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Batr-E_Nikolas_Journey">Batr-E - Nikola's Journey</a> (Unity / C#)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Batr-E_Nikolas_Journey"><img src="./images/Batr-E_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Batr-E - Nikola's Journey"></a>
-        <p>In this Solarpunk puzzle plattformer, Nikola, a small repair robot, is assigned torebuild an old factory.</p>
+      </td>
+      <td>
+        In this Solarpunk puzzle plattformer, Nikola, a small repair robot, is assigned torebuild an old factory.
       </td>
     </tr>
   </table>
@@ -162,11 +175,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/GamifiedMoodle">Gamified Moodle</a> (Moodle / HTML5)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/GamifiedMoodle"><img src="./images/GamifiedMoodle_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Gamified Moodle"></a>
-        <p>Created a data-driven, enhanced, gamified Moodle course for tutoring. Using various plugins & web-design.</p>
+      </td>
+      <td>
+        Created a data-driven, enhanced, gamified Moodle course for tutoring. Using various plugins & web-design.
       </td>
     </tr>
   </table>
@@ -184,11 +199,13 @@ For a more detailed description and implementation details, click the title or t
 
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/TowerDefense">TowerDefense</a> (Godot4 / GDscript2)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/TowerDefense"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="TowerDefense"></a>
-        <p>A different take on the tower defense genre, where towers don't kill but buff.</p>
+      </td>
+      <td>
+        A different take on the tower defense genre, where towers don't kill but buff.
       </td>
     </tr>
   </table>
@@ -202,11 +219,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Omnis">Omnis Rewrite in Godot4</a> (Godot4 / GDscript2)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
-        <p>Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'</p>
+      </td>
+      <td>
+        Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'
       </td>
     </tr>
   </table>
@@ -215,11 +234,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/n-c0de-r.github.io">Rewrite my personal GitHub Page in (almost) CSS only</a> (Godot4 / GDscript2)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/n-c0de-r.github.io"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Rewrite my personal GitHub Page in (almost) CSS only"></a>
-        <p>Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!</p>
+      </td>
+      <td>
+        Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!
       </td>
     </tr>
   </table>
@@ -237,11 +258,13 @@ For a more detailed description and implementation details, click the title or t
 
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/TaurosTraps">Tauros Traps</a> (Unity / C#)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/TaurosTraps"><img src="./images/TaurosTraps_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Tauros Traps"></a>
-       <p>Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment.</p>
+      </td>
+       <td>
+        Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment.
       </td>
     </tr>
   </table>
@@ -255,11 +278,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Omnis">Omnis</a> (Godot3 / GDscript)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/Omnis_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
-        <p>A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind.</p>
+      </td>
+      <td>
+        A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind.
       </td>
     </tr>
   </table>
@@ -273,11 +298,13 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/DiveAI">Diving Game AI</a> (Java)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/DiveAI"><img src="./images/DiveAI_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Diving Game AI"></a>
-        <p>Teaching an AI to dive and collect pearls in a predefined environment as part of the GameAI course.</p>
+      </td>
+      <td>
+      Teaching an AI to dive and collect pearls in a predefined environment as part of the GameAI course.
       </td>
     </tr>
   </table>
@@ -291,12 +318,14 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Notiply">Notiply</a> (Android / Java)</figcaption>
-  <table style="width: 100%; border: 0px solid black;">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Notiply"><img src="./images/No_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="No Icon, Sad face by MilanaTran"></a>
-        <p>Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.<br>
-        [Note: Sadly the code in the repo seems to be damaged an no app can be built from it. Needs a total overhaul!]</p>
+      </td>
+      <td>
+        Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.<br>
+        [Note: Sadly the code in the repo seems to be damaged an no app can be built from it. Needs a total overhaul!]
       </td>
     </tr>
   </table>
