@@ -74,8 +74,8 @@ For a more detailed description and implementation details, click the title or t
   <figcaption><a href="https://github.com/SilenceBreakers/NUI-MCE-Translator">MCE-Translator</a> (Unity / C#)</figcaption>
   <table style="width: 100%">
     <tr>
-      <td style="width: 160px">
-        <a href="https://github.com/SilenceBreakers/NUI-MCE-Translator"><img src="./images/MCE-Translator_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="MCE-Translator"></a>
+      <td>
+      <div style="width:160px"><a href="https://github.com/SilenceBreakers/NUI-MCE-Translator"><img src="./images/MCE-Translator_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="MCE-Translator"></a></div>
       </td>
       <td>
         A Unity-based prototype application that allows users to use sign language gestures for vowels and numbers to translate them to text on screen and speech to audio.
