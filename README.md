@@ -2,7 +2,7 @@
 
 | [Me by MilanaTran](https://github.com/milanatran") | Bio: |
 |---|:---|
-| [![Doodle Art of me made by MilanaTran](./images/DoodleMe.PNG)](href="https://github.com/milanatran")  | Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.<br><br>While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.<br><br>Working as a student tutor in '22 & '23, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
+| [![Doodle Art of me made by MilanaTran](./images/DoodleMe.png)](href="https://github.com/milanatran")  | Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.<br><br>While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.<br><br>Working as a student tutor in '22 & '23, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
 
 ###  <a href="mailto:n-c0de-r_contact@e.mail.com?subject=Hello from GitHub">`📧 Contact.Me`</a>
 
@@ -17,8 +17,6 @@
 - 💬 Ask me about pixelart, edutech, good storytelling & game design. I'm a beginner, but passionate about these.
 
 ### Other than that I'm striving to make my graduation in...
-[![Doodle Art of me made by MilanaTran](./images/ComicMe.png)](https://github.com/milanatran)
-
 [![Logo](./images/logo_imi_alpha.png)](https://imi-bachelor.htw-berlin.de)
 </details>
 
@@ -210,7 +208,7 @@ Implementation, documentation.
 #
 [Notiply (Android / Java)](https://github.com/Notiply)
 
-[![No Icon, Sad face by MilanaTran](./images/No_Icon.PNG)](https://github.com/milanatran)
+[![No Icon, Sad face by MilanaTran](./images/No_Icon.png)](https://github.com/milanatran)
 
 Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.
 
