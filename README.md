@@ -1,12 +1,8 @@
 ## `🤖 About.Me`
-<!-- it works in VSCodium... don't know why GitHub doesn't allow it... leave it here for later.
-  <a href="https://github.com/milanatran"><img src="./images/DoodleMe.png" style="min-width: 30px; min-height: 40px; width: 150px; height: 200px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="Doodle Art of me made by MilanaTran"></a>
-  -->
-  Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.
 
-While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.
-
-Working as a student tutor in '22 & '23, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
+| [Me by MilanaTran](https://github.com/milanatran") | Bio: |
+|---|:---|
+| [![Doodle Art of me made by MilanaTran](./images/DoodleMe.PNG)](href="https://github.com/milanatran")  | Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.<br><br>While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.<br><br>Working as a student tutor in '22 & '23, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation.
 
 ###  <a href="mailto:n-c0de-r_contact@e.mail.com?subject=Hello from GitHub">`📧 Contact.Me`</a>
 
