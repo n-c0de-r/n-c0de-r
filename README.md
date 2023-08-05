@@ -21,6 +21,8 @@ Working as a student tutor in '22 & '23, gaining experience in didactics, and ex
 - 💬 Ask me about pixelart, edutech, good storytelling & game design. I'm a beginner, but passionate about these.
 
 ### Other than that I'm striving to make my graduation in...
+[![Doodle Art of me made by MilanaTran](./images/ComicMe.png)](https://github.com/milanatran)
+
 [![Logo](./images/logo_imi_alpha.png)](https://imi-bachelor.htw-berlin.de)
 </details>
 
@@ -49,292 +51,179 @@ Working as a student tutor in '22 & '23, gaining experience in didactics, and ex
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
 
 #
-<figure>
-  <figcaption><a href="https://github.com/ChariotGames/I-Cant-C-Sharp">I Can't C#</a> (Unity / C#)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
-      </td>
-      <td>
-        No, it is NOT a C# learning app!<br>
-        Part of the <a href="https://showtime.f4.htw-berlin.de">summer of '23 bachelor's showtime</a> project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.
-      </td>
-    </tr>
-  </table>
+[I Can't C# (Unity / C#)](https://github.com/ChariotGames/I-Cant-C-Sharp)
+
+[![I Can't C#](./images/I-Cant-C-Sharp_Icon.png)](https://github.com/ChariotGames/I-Cant-C-Sharp)
+No, it is NOT a C# learning app!<br>Part of the <a href="https://showtime.f4.htw-berlin.de">summer of '23 bachelor's showtime</a> project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.
+
+```
+As team member of Chariot Games:
+Unity guidance, backend coding, code style & design, base game class, minigame manager, simon says game, bug fixing, code & scene cleanup, documentation, progress management.
+```
+
+#
+[MCE-Translator  (Unity / C#)](https://github.com/SilenceBreakers/NUI-MCE-Translator)
+
+[![MCE-Translator](./images/MCE-Translator_Icon.png)](https://github.com/SilenceBreakers/NUI-MCE-Translator)
+
+A Unity-based prototype application that allows users to use sign language gestures for vowels and numbers to translate them to text on screen and speech to audio.
+
+```
+As team member of SilenceBreakers:
+Mostly backend work and Unity guidance, also programming a gesture recorder.
+```
+
+#
+[WaveMaker (Unity / C#)](https://github.com/IMIaculate-Games/WaveMaker)
+
+[![WaveMaker](./images/WaveMaker_Icon.png)](https://github.com/IMIaculate-Games/WaveMaker)
+
+A reverse tower defense game for the topic "Reversed Roles" of <a href="https://itch.io/jam/gmtk-2023">GMTK Game Jam 23</a> where you create and play the waves.
+
+```
+As team member of IMIaculate-Games:
+Random tower placement script, Unity teaching, GUI setup and editing, various bugfixes.
+```
+
+#
+[StegaNotes (HTML5 / JS)](https://github.com/StegaNotes)
+
+[![StegaNotes](./images/StegaNotes_Icon.png)](https://github.com/StegaNotes)
+
+An offline-first, minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load.
+
+```
+By me:
+Idea, design, implementation, art retouch, UI, documentation.
+```
+
+#
+[NightLifeDrive (Unity / C#)](https://github.com/NightLifeDrive)
+
+[![NightLifeDrive](./images/NightLifeDrive_Icon.png)](https://github.com/NightLifeDrive)
+
+An endless racer where you take a chill drive on neon-lit streets while listening to synthwave music.
+
+```
+As team member of U-Knights:
+Random track generation, object spawning, score counter, song display, name inputs,glowing materials, particle animations, bug fixes & documentation.
+```
+
+#
+[Batr-E - Nikola's Journey (Unity / C#)](https://github.com/Batr-E_Nikolas_Journey)
+
+[![Batr-E - Nikola's Journey](./images/Batr-E_Icon.png)](https://github.com/Batr-E_Nikolas_Journey)
+
+In this Solarpunk puzzle plattformer, Nikola, a small repair robot, is assigned torebuild an old factory.
+
+```
+As team member of U-Knights:
+Objects design, energy recharge interface, UI fixes & basic animations.
+```
+
+#
+[Gamified Moodle (Moodle / HTML5)](https://github.com/GamifiedMoodle)
+
+[![Gamified Moodle](./images/GamifiedMoodle_Icon.png)](https://github.com/GamifiedMoodle)
+
+Created a data-driven, enhanced, gamified Moodle course for tutoring. Using various plugins & web-design.
   
-  ```
-  As team member of Chariot Games:
-  Unity guidance, backend coding, code style & design, base game class, minigame manager, simon says game, bug fixing, code & scene cleanup, documentation, progress management.
-  ```
-</figure>
-
-#
-<figure>
-  <figcaption><a href="https://github.com/SilenceBreakers/NUI-MCE-Translator">MCE-Translator</a> (Unity / C#)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/SilenceBreakers/NUI-MCE-Translator"><img src="./images/MCE-Translator_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="MCE-Translator"></a>
-      </td>
-      <td>
-        A Unity-based prototype application that allows users to use sign language gestures for vowels and numbers to translate them to text on screen and speech to audio.
-      </td>
-    </tr>
-  </table>
-
-  ```
-  As team member of SilenceBreakers:
-  Mostly backend work and Unity guidance, also programming a gesture recorder.
-  ```
-</figure>
-
-#
-<figure>
-  <figcaption><a href="https://github.com/IMIaculate-Games/WaveMaker">WaveMaker</a> (Unity / C#)</figcaption>
-  
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/IMIaculate-Games/WaveMaker"><img src="./images/WaveMaker_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="WaveMaker"></a>
-      </td>
-      <td>
-        A reverse tower defense game for the topic "Reversed Roles" of <a href="https://itch.io/jam/gmtk-2023">GMTK Game Jam 23</a> where you create and play the waves.
-      </td>
-      </td>
-    </tr>
-  </table>
-
-  ```
-  As team member of IMIaculate-Games:
-  Random tower placement script, Unity teaching, GUI setup and editing, various bugfixes.
-  ```
-</figure>
-
-
-#
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/StegaNotes">StegaNotes</a> (HTML5 / JS)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/StegaNotes"><img src="./images/StegaNotes_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="StegaNotes"></a>
-      </td>
-      <td>
-        An offline-first, minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load.
-      </td>
-    </tr>
-  </table>
-  
-  ```
-  By me:
-  Idea, design, implementation, art retouch, UI, documentation.
-  ```
-</figure>
-
-#
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/NightLifeDrive">NightLifeDrive</a> (Unity / C#)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/NightLifeDrive"><img src="./images/NightLifeDrive_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="NightLifeDrive"></a>
-      </td>
-      <td>
-        <p>An endless racer where you take a chill drive on neon-lit streets while listening to synthwave music.
-      </td>
-    </tr>
-  </table>
-
-  ```
-  As team member of U-Knights:
-  Random track generation, object spawning, score counter, song display, name inputs,glowing materials, particle animations, bug fixes & documentation.
-  ```
-</figure>
-
-#
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/Batr-E_Nikolas_Journey">Batr-E - Nikola's Journey</a> (Unity / C#)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/Batr-E_Nikolas_Journey"><img src="./images/Batr-E_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Batr-E - Nikola's Journey"></a>
-      </td>
-      <td>
-        In this Solarpunk puzzle plattformer, Nikola, a small repair robot, is assigned torebuild an old factory.
-      </td>
-    </tr>
-  </table>
-
-  ```
-  As team member of U-Knights:
-  Objects design, energy recharge interface, UI fixes & basic animations.
-  ```
-</figure>
-
-#
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/GamifiedMoodle">Gamified Moodle</a> (Moodle / HTML5)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/GamifiedMoodle"><img src="./images/GamifiedMoodle_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Gamified Moodle"></a>
-      </td>
-      <td>
-        Created a data-driven, enhanced, gamified Moodle course for tutoring. Using various plugins & web-design.
-      </td>
-    </tr>
-  </table>
-  
-  ```
-  By me:
-  Idea, design, implementation, art retouch, UI, documentation`
-  ```
-</figure>
+```
+By me:
+Idea, design, implementation, art retouch, UI, documentation`
+```
 
 #
 
 <details>
 <summary>🚧 <code>Works.In.Progress</code></summary>
 
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/TowerDefense">TowerDefense</a> (Godot4 / GDscript2)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/TowerDefense"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="TowerDefense"></a>
-      </td>
-      <td>
-        A different take on the tower defense genre, where towers don't kill but buff.
-      </td>
-    </tr>
-  </table>
+[TowerDefense (Godot4 / GDscript2)](https://github.com/TowerDefense)
+
+[![TowerDefense](./images/WIP_Icon.png)](https://github.com/TowerDefense)
+
+A different take on the tower defense genre, where towers don't kill but buff.
   
-  ```
-  By me (probably):
-  Idea, design, implementation, UI, documentation
-  ```
-</figure>
+```
+By me (probably):
+Idea, design, implementation, UI, documentation
+```
 
 #
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/Omnis">Omnis Rewrite in Godot4</a> (Godot4 / GDscript2)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
-      </td>
-      <td>
-        Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'
-      </td>
-    </tr>
-  </table>
-</figure>
+[Omnis Rewrite in Godot4 (Godot4 / GDscript2)](https://github.com/Omnis)
+
+[![Omnis](./images/WIP_Icon.png)](https://github.com/Omnis)
+
+Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'
 
 #
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/n-c0de-r.github.io">Rewrite my personal GitHub Page in (almost) CSS only</a> (Godot4 / GDscript2)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/n-c0de-r.github.io"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Rewrite my personal GitHub Page in (almost) CSS only"></a>
-      </td>
-      <td>
-        Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!
-      </td>
-    </tr>
-  </table>
 
-  ```
-  By me:
-  Idea, design, implementation, art retouch, UI, documentation.
-  ```
-</figure>
+[Rewrite my personal GitHub Page in (almost) CSS only (HTML5 / CSS3 / NO js!)](https://github.com/n-c0de-r.github.io)
+
+[![GitHug.io page](./images/WIP_Icon.png)](https://github.com/n-c0de-r.github.io)
+
+Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!
+
+```
+By me:
+Idea, design, implementation, art retouch, UI, documentation.
+```
 
 </details>
 
 <details>
 <summary>📜 <code>Older.Projects</code></summary>
 
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/TaurosTraps">Tauros Traps</a> (Unity / C#)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/TaurosTraps"><img src="./images/TaurosTraps_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Tauros Traps"></a>
-      </td>
-       <td>
-        Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment.
-      </td>
-    </tr>
-  </table>
-  
-  ```
-  By me:
-  Idea, design, implementation, art retouch, UI, documentation.
-  ```
-</figure>
+[Tauros Traps (Unity / C#)](https://github.com/TaurosTraps)
+
+[![Tauros Traps](./images/TaurosTraps_Icon.png)](https://github.com/TaurosTraps)
+
+Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment. Unfinished, could be a game.
+
+```
+By me:
+Idea, design, implementation, art retouch, UI, documentation.
+```
 
 #
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/Omnis">Omnis</a> (Godot3 / GDscript)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/Omnis_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
-      </td>
-      <td>
-        A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind.
-      </td>
-    </tr>
-  </table>
-  
-  ```
-  By me:
-  Idea, design, implementation, art retouch, UI, documentation.
-  ```
-</figure>
+[Omnis (Godot3 / GDscript)](https://github.com/Omnis)
+
+[![Omnis](./images/Omnis_Icon.png)](https://github.com/Omnis)
+
+A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind.
+
+[Note: This entry becomes obsolete once the rewrite is done, replacing it]
+
+```
+By me:
+Idea, design, implementation, art retouch, UI, documentation.
+```
 
 #
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/DiveAI">Diving Game AI</a> (Java)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/DiveAI"><img src="./images/DiveAI_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Diving Game AI"></a>
-      </td>
-      <td>
-      Teaching an AI to dive and collect pearls in a predefined environment as part of the GameAI course.
-      </td>
-    </tr>
-  </table>
+[Diving Game AI (Java)](https://github.com/DiveAI)
 
-  ```
-  By me:
-  Implementation, documentation.
-  ```
-</figure>
+[![Diving Game AI](./images/DiveAI_Icon.png)](https://github.com/DiveAI)
+
+Teaching an AI to dive and collect pearls in a predefined environment as part of the GameAI course.
+
+```
+By me:
+Implementation, documentation.
+```
 
 #
-<figure>
-  <figcaption><a href="https://github.com/n-c0de-r/Notiply">Notiply</a> (Android / Java)</figcaption>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/n-c0de-r/Notiply"><img src="./images/No_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="No Icon, Sad face by MilanaTran"></a>
-      </td>
-      <td>
-        Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.<br>
-        [Note: Sadly the code in the repo seems to be damaged an no app can be built from it. Needs a total overhaul!]
-      </td>
-    </tr>
-  </table>
+[Notiply (Android / Java)](https://github.com/Notiply)
+
+[![No Icon, Sad face by MilanaTran](./images/No_Icon.png)](https://github.com/milanatran)
+
+Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.
+
+[Note: Sadly the code in the repo seems to be damaged an no app can be built from it. Needs a total overhaul!]
   
-  ```
-  By me:
-  Idea, Implementation, UI, documentation, basic testing.
-  ```
-</figure>
+```
+By me:
+Idea, Implementation, UI, documentation, basic testing.
+```
 
 Some more below and [many others here...](https://github.com/n-c0de-r?tab=repositories)
 </details>
