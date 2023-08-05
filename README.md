@@ -210,7 +210,7 @@ Implementation, documentation.
 #
 [Notiply (Android / Java)](https://github.com/Notiply)
 
-[![No Icon, Sad face by MilanaTran](./images/No_Icon.png)](https://github.com/milanatran)
+[![No Icon, Sad face by MilanaTran](./images/No_Icon.PNG)](https://github.com/milanatran)
 
 Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.
 
