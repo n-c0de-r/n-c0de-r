@@ -51,7 +51,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/ChariotGames/I-Cant-C-Sharp">I Can't C#</a> (Unity / C#)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
@@ -70,7 +70,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/SilenceBreakers/NUI-MCE-Translator">MCE-Translator</a> (Unity / C#)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/SilenceBreakers/NUI-MCE-Translator"><img src="./images/MCE-Translator_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="MCE-Translator"></a>
@@ -89,7 +89,7 @@ For a more detailed description and implementation details, click the title or t
 <figure>
   <figcaption><a href="https://github.com/IMIaculate-Games/WaveMaker">WaveMaker</a> (Unity / C#)</figcaption>
   
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/IMIaculate-Games/WaveMaker"><img src="./images/WaveMaker_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="WaveMaker"></a>
@@ -108,7 +108,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/StegaNotes">StegaNotes</a> (HTML5 / JS)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/StegaNotes"><img src="./images/StegaNotes_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="StegaNotes"></a>
@@ -126,7 +126,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/NightLifeDrive">NightLifeDrive</a> (Unity / C#)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/NightLifeDrive"><img src="./images/NightLifeDrive_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="NightLifeDrive"></a>
@@ -144,7 +144,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Batr-E_Nikolas_Journey">Batr-E - Nikola's Journey</a> (Unity / C#)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Batr-E_Nikolas_Journey"><img src="./images/Batr-E_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Batr-E - Nikola's Journey"></a>
@@ -162,7 +162,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/GamifiedMoodle">Gamified Moodle</a> (Moodle / HTML5)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/GamifiedMoodle"><img src="./images/GamifiedMoodle_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Gamified Moodle"></a>
@@ -184,7 +184,7 @@ For a more detailed description and implementation details, click the title or t
 
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/TowerDefense">TowerDefense</a> (Godot4 / GDscript2)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/TowerDefense"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="TowerDefense"></a>
@@ -202,7 +202,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Omnis">Omnis Rewrite in Godot4</a> (Godot4 / GDscript2)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
@@ -215,7 +215,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/n-c0de-r.github.io">Rewrite my personal GitHub Page in (almost) CSS only</a> (Godot4 / GDscript2)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/n-c0de-r.github.io"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Rewrite my personal GitHub Page in (almost) CSS only"></a>
@@ -237,7 +237,7 @@ For a more detailed description and implementation details, click the title or t
 
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/TaurosTraps">Tauros Traps</a> (Unity / C#)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/TaurosTraps"><img src="./images/TaurosTraps_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Tauros Traps"></a>
@@ -255,7 +255,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Omnis">Omnis</a> (Godot3 / GDscript)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/Omnis_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
@@ -273,7 +273,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/DiveAI">Diving Game AI</a> (Java)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/DiveAI"><img src="./images/DiveAI_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Diving Game AI"></a>
@@ -291,7 +291,7 @@ For a more detailed description and implementation details, click the title or t
 #
 <figure>
   <figcaption><a href="https://github.com/n-c0de-r/Notiply">Notiply</a> (Android / Java)</figcaption>
-  <table>
+  <table style="width: 100%; border: 0px solid black;">
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Notiply"><img src="./images/No_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="No Icon, Sad face by MilanaTran"></a>
