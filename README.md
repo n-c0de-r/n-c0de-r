@@ -51,12 +51,19 @@ For a more detailed description and implementation details, click the title or t
 
 #
 <figure>
-  <figcaption><a href="https://github.com/ChariotGames/I-Cant-C-Sharp">MCE-Translator</a> (Unity / C#)</figcaption>
-  <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
-  <p>No, it is NOT a C# learning app!<br>Part of the summer of '23 bachelor's project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.</p>
-  <br>
-  <pre>As team member of <a href="https://github.com/SilenceBreakers">SilenceBreakers</a>:
-  Mostly backend work and Unity guidance, also programming a gesture recorder.</pre>
+  <figcaption><a href="https://github.com/ChariotGames/I-Cant-C-Sharp">I Can't C#</a> (Unity / C#)</figcaption>
+  <table>
+    <tr>
+      <td><a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
+      <p>No, it is NOT a C# learning app!<br>Part of the summer of '23 bachelor's project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.</p>
+      </td>
+    </tr>
+  </table>
+  
+  ```
+  As team member of Chariot Games:
+  Unity guidance, backend coding, code style & design, base game class, minigame manager, simon says game, bug fixing, code & scene cleanup, documentation, progress management.
+  ```
 </figure>
 
 #
@@ -70,8 +77,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>As team member of <a href="https://github.com/SilenceBreakers">SilenceBreakers</a>:
-  Mostly backend work and Unity guidance, also programming a gesture recorder.</pre>
+
+  ```
+  As team member of SilenceBreakers:
+  Mostly backend work and Unity guidance, also programming a gesture recorder.
+  ```
 </figure>
 
 #
@@ -86,8 +96,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>As team member of <a href="https://github.com/IMIaculate-Games">IMIaculate-Games</a>:
-  Random tower placement script, Unity teaching, GUI setup and editing, various bugfixes.</pre>
+
+  ```
+  As team member of IMIaculate-Games:
+  Random tower placement script, Unity teaching, GUI setup and editing, various bugfixes.
+  ```
 </figure>
 
 
@@ -102,8 +115,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>By me:
-  Idea, design, implementation, art retouch, UI, documentation.</pre>
+  
+  ```
+  By me:
+  Idea, design, implementation, art retouch, UI, documentation.
+  ```
 </figure>
 
 #
@@ -117,8 +133,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>As team member of <a href="https://github.com/U-Knights">U-Knights</a>:
-  Random track generation, object spawning, score counter, song display, name inputs, glowing materials, particle animations, bug fixes & documentation.</pre>
+
+  ```
+  As team member of U-Knights:
+  Random track generation, object spawning, score counter, song display, name inputs,glowing materials, particle animations, bug fixes & documentation.
+  ```
 </figure>
 
 #
@@ -132,8 +151,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>As team member of <a href="https://github.com/U-Knights">U-Knights</a>:
-  Objects design, energy recharge interface, UI fixes & basic animations. </pre>
+
+  ```
+  As team member of U-Knights:
+  Objects design, energy recharge interface, UI fixes & basic animations.
+  ```
 </figure>
 
 #
@@ -147,8 +169,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>By me:
-  Idea, design, implementation, art retouch, UI, documentation</pre>
+  
+  ```
+  By me:
+  Idea, design, implementation, art retouch, UI, documentation`
+  ```
 </figure>
 
 #
@@ -166,8 +191,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>By me (probably):
-  Idea, design, implementation, UI, documentation</pre>
+  
+  ```
+  By me (probably):
+  Idea, design, implementation, UI, documentation
+  ```
 </figure>
 
 #
@@ -177,7 +205,7 @@ For a more detailed description and implementation details, click the title or t
     <tr>
       <td>
         <a href="https://github.com/n-c0de-r/Omnis"><img src="./images/WIP_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Omnis"></a>
-        <p>Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof.</p>
+        <p>Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'</p>
       </td>
     </tr>
   </table>
@@ -194,6 +222,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
+
+  ```
+  By me:
+  Idea, design, implementation, art retouch, UI, documentation.
+  ```
 </figure>
 
 </details>
@@ -211,8 +244,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>By me:
-  Idea, design, implementation, art retouch, UI, documentation.</pre>
+  
+  ```
+  By me:
+  Idea, design, implementation, art retouch, UI, documentation.
+  ```
 </figure>
 
 #
@@ -226,8 +262,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>By me:
-  Idea, design, implementation, art retouch, UI, documentation.</pre>
+  
+  ```
+  By me:
+  Idea, design, implementation, art retouch, UI, documentation.
+  ```
 </figure>
 
 #
@@ -241,8 +280,11 @@ For a more detailed description and implementation details, click the title or t
       </td>
     </tr>
   </table>
-  <pre>By me:
-  Implementation, documentation.</pre>
+
+  ```
+  By me:
+  Implementation, documentation.
+  ```
 </figure>
 
 #
@@ -251,13 +293,17 @@ For a more detailed description and implementation details, click the title or t
   <table>
     <tr>
       <td>
-        <a href="https://github.com/n-c0de-r/Notiply"><img src="./images/Notiply_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="Notiply App"></a>
-        <p>Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.</p>
+        <a href="https://github.com/n-c0de-r/Notiply"><img src="./images/No_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em; border: 1px solid black;" alt="No Icon, Sad face by MilanaTran"></a>
+        <p>Just a prototype for a collaborative drawing Android app as part of the last Mobile Development course.<br>
+        [Note: Sadly the code in the repo seems to be damaged an no app can be built from it. Needs a total overhaul!]</p>
       </td>
     </tr>
   </table>
-  <pre>By me:
-  Idea, Implementation, UI, documentation, basic testing.</pre>
+  
+  ```
+  By me:
+  Idea, Implementation, UI, documentation, basic testing.
+  ```
 </figure>
 
 Some more below and [many others here...](https://github.com/n-c0de-r?tab=repositories)
