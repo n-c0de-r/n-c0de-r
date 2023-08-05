@@ -1,9 +1,8 @@
 ## `🤖 About.Me`
-<figure>
-  <a href="https://github.com/milanatran"><img src="./images/DoodleMe.png"  style="min-width: 30px; min-height: 40px; width: 150px; height: 200px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="Doodle Art of me made by MilanaTran"></a>
-  <p>Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.
-</p>
-</figure>
+<!-- it works in VSCodium... don't know why GitHub doesn't allow it... leave it here for later.
+  <a href="https://github.com/milanatran"><img src="./images/DoodleMe.png" style="min-width: 30px; min-height: 40px; width: 150px; height: 200px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="Doodle Art of me made by MilanaTran"></a>
+  -->
+  Hi, I'm Nermin, also called Nico, studying International Media & Informatics (IMI) in the 6th semester. Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.
 
 While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.
 
@@ -54,8 +53,10 @@ For a more detailed description and implementation details, click the title or t
   <figcaption><a href="https://github.com/ChariotGames/I-Cant-C-Sharp">I Can't C#</a> (Unity / C#)</figcaption>
   <table>
     <tr>
-      <td><a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
-      <p>No, it is NOT a C# learning app!<br>Part of the summer of '23 bachelor's project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.</p>
+      <td>
+        <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; width: 160px; height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
+        <p>No, it is NOT a C# learning app!<br>
+        Part of the <a href="https://showtime.f4.htw-berlin.de">summer of '23 bachelor's showtime</a> project topic "Fostering concentration through minigames". But we flipped it and instead, we "challange" the concentration of the player.</p>
       </td>
     </tr>
   </table>
