@@ -54,7 +54,7 @@ For a more detailed description and implementation details, click the title or t
   <table>
     <tr>
       <td>
-        <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#" width=160px height=90px></a>
+        <a href="https://github.com/ChariotGames/I-Cant-C-Sharp"><img src="./images/I-Cant-C-Sharp_Icon.png"  style="min-width: 160px; min-height: 90px; float: left; margin-right: 0.5em; margin-top: 0.25em;  border: 1px solid black;" alt="I Can't C#"></a>
       </td>
       <td>
         No, it is NOT a C# learning app!<br>
