@@ -128,7 +128,6 @@ Idea, design, implementation, art retouch, UI, documentation`
 ```
 
 #
-
 <details>
 <summary>🚧 <code>Works.In.Progress</code></summary>
 
@@ -144,14 +143,13 @@ Idea, design, implementation, UI, documentation
 ```
 
 #
-[Omnis Rewrite in Godot4 (Godot4 / GDscript2)](https://github.com/Omnis)
+[Omnis Rewrite in Godot4 (Godot4 / GDscript2)](https://github.com/n-c0de-r/Omnis)
 
-[![Omnis](./images/WIP_Icon.png)](https://github.com/Omnis)
+[![Omnis](./images/WIP_Icon.png)](https://github.com/n-c0de-r/Omnis)
 
 Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'
 
 #
-
 [Rewrite my personal GitHub Page in (almost) CSS only (HTML5 / CSS3 / NO js!)](https://github.com/n-c0de-r.github.io)
 
 [![GitHug.io page](./images/WIP_Icon.png)](https://github.com/n-c0de-r.github.io)
