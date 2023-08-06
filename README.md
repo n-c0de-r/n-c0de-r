@@ -80,9 +80,9 @@ Random tower placement script, Unity teaching, GUI setup and editing, various bu
 ```
 
 #
-[StegaNotes (HTML5 / JS)](https://github.com/StegaNotes)
+[StegaNotes (HTML5 / JS)](https://github.com/n-c0de-r/StegaNotes)
 
-[![StegaNotes](./images/StegaNotes_Icon.png)](https://github.com/StegaNotes)
+[![StegaNotes](./images/StegaNotes_Icon.png)](https://github.com/n-c0de-r/StegaNotes)
 
 An offline-first, minimalistic Note-taking cross-platform PWA, that is able to hide texts using steganography. Made and works without frameworks or other heavy-weight "help" to reduce data load.
 
@@ -92,9 +92,9 @@ Idea, design, implementation, art retouch, UI, documentation.
 ```
 
 #
-[NightLifeDrive (Unity / C#)](https://github.com/NightLifeDrive)
+[NightLifeDrive (Unity / C#)](https://github.com/n-c0de-r/NightLifeDrive)
 
-[![NightLifeDrive](./images/NightLifeDrive_Icon.png)](https://github.com/NightLifeDrive)
+[![NightLifeDrive](./images/NightLifeDrive_Icon.png)](https://github.com/n-c0de-r/NightLifeDrive)
 
 An endless racer where you take a chill drive on neon-lit streets while listening to synthwave music.
 
@@ -104,9 +104,9 @@ Random track generation, object spawning, score counter, song display, name inpu
 ```
 
 #
-[Batr-E - Nikola's Journey (Unity / C#)](https://github.com/Batr-E_Nikolas_Journey)
+[Batr-E - Nikola's Journey (Unity / C#)](https://github.com/n-c0de-r/Batr-E_Nikolas_Journey)
 
-[![Batr-E - Nikola's Journey](./images/Batr-E_Icon.png)](https://github.com/Batr-E_Nikolas_Journey)
+[![Batr-E - Nikola's Journey](./images/Batr-E_Icon.png)](https://github.com/n-c0de-r/Batr-E_Nikolas_Journey)
 
 In this Solarpunk puzzle plattformer, Nikola, a small repair robot, is assigned torebuild an old factory.
 
@@ -116,9 +116,9 @@ Objects design, energy recharge interface, UI fixes & basic animations.
 ```
 
 #
-[Gamified Moodle (Moodle / HTML5)](https://github.com/GamifiedMoodle)
+[Gamified Moodle (Moodle / HTML5)](https://github.com/n-c0de-r/GamifiedMoodle)
 
-[![Gamified Moodle](./images/GamifiedMoodle_Icon.png)](https://github.com/GamifiedMoodle)
+[![Gamified Moodle](./images/GamifiedMoodle_Icon.png)](https://github.com/n-c0de-r/GamifiedMoodle)
 
 Created a data-driven, enhanced, gamified Moodle course for tutoring. Using various plugins & web-design.
   
@@ -131,9 +131,9 @@ Idea, design, implementation, art retouch, UI, documentation`
 <details>
 <summary>🚧 <code>Works.In.Progress</code></summary>
 
-[TowerDefense (Godot4 / GDscript2)](https://github.com/TowerDefense)
+[TowerDefense (Godot4 / GDscript2)](https://github.com/n-c0de-r/TowerDefense)
 
-[![TowerDefense](./images/WIP_Icon.png)](https://github.com/TowerDefense)
+[![TowerDefense](./images/WIP_Icon.png)](https://github.com/n-c0de-r/TowerDefense)
 
 A different take on the tower defense genre, where towers don't kill but buff.
   
@@ -150,9 +150,9 @@ Idea, design, implementation, UI, documentation
 Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'
 
 #
-[Rewrite my personal GitHub Page in (almost) CSS only (HTML5 / CSS3 / NO js!)](https://github.com/n-c0de-r.github.io)
+[Rewrite my personal GitHub Page in (almost) CSS only (HTML5 / CSS3 / NO js!)](https://github.com/n-c0de-r/n-c0de-r.github.io)
 
-[![GitHug.io page](./images/WIP_Icon.png)](https://github.com/n-c0de-r.github.io)
+[![GitHug.io page](./images/WIP_Icon.png)](https://github.com/n-c0de-r/n-c0de-r.github.io)
 
 Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!
 
@@ -166,9 +166,9 @@ Idea, design, implementation, art retouch, UI, documentation.
 <details>
 <summary>📜 <code>Older.Projects</code></summary>
 
-[Tauros Traps (Unity / C#)](https://github.com/TaurosTraps)
+[Tauros Traps (Unity / C#)](https://github.com/n-c0de-r/TaurosTraps)
 
-[![Tauros Traps](./images/TaurosTraps_Icon.png)](https://github.com/TaurosTraps)
+[![Tauros Traps](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
 
 Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment. Unfinished, could be a game.
 
@@ -178,9 +178,9 @@ Idea, design, implementation, art retouch, UI, documentation.
 ```
 
 #
-[Omnis (Godot3 / GDscript)](https://github.com/Omnis)
+[Omnis (Godot3 / GDscript)](https://github.com/n-c0de-r/Omnis)
 
-[![Omnis](./images/Omnis_Icon.png)](https://github.com/Omnis)
+[![Omnis](./images/Omnis_Icon.png)](https://github.com/n-c0de-r/Omnis)
 
 A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind.
 
@@ -192,9 +192,9 @@ Idea, design, implementation, art retouch, UI, documentation.
 ```
 
 #
-[Diving Game AI (Java)](https://github.com/DiveAI)
+[Diving Game AI (Java)](https://github.com/n-c0de-r/DiveAI)
 
-[![Diving Game AI](./images/DiveAI_Icon.png)](https://github.com/DiveAI)
+[![Diving Game AI](./images/DiveAI_Icon.png)](https://github.com/n-c0de-r/DiveAI)
 
 Teaching an AI to dive and collect pearls in a predefined environment as part of the GameAI course.
 
@@ -204,7 +204,7 @@ Implementation, documentation.
 ```
 
 #
-[Notiply (Android / Java)](https://github.com/Notiply)
+[Notiply (Android / Java)](https://github.com/n-c0de-r/Notiply)
 
 [![No Icon, Sad face by MilanaTran](./images/No_Icon.png)](https://github.com/milanatran)
 
