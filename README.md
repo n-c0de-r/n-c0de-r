@@ -48,6 +48,7 @@ For a more detailed description and implementation details, click the title or t
 [GLYPHAE (Unity / C#)](https://github.com/n-c0de-r/GLYPHAE)
 
 [![GLYPHAE](./images/GLYPHAE_Icon.png)](https://github.com/n-c0de-r/GLYPHAE)
+
 GLYPHAE is an Android mobile game designed to make learning Ancient Egyptian hieroglyphs fun and engaging. Inspired by the Tamagotchi-style gameplay, players raise an Egyptian god from an egg to their godly form.
 
 ```
