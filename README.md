@@ -1,3 +1,5 @@
+[![Animated n-c0de-r Logo](./images/logo_n-c0de-r_alpha.gif)](https://n-c0de-r.github.io)
+
 ## `About.Me`
 
 | [Me by MilanaTran](https://github.com/milanatran") | Bio: |
@@ -31,8 +33,6 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <br /><br />
-
-[![Animated n-c0de-r Logo](./images/logo_n-c0de-r_alpha.gif)](https://n-c0de-r.github.io)
 
 ---
 
