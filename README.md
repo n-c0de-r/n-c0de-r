@@ -1,28 +1,23 @@
-## `🤖 About.Me`
+## `About.Me`
 
 | [Me by MilanaTran](https://github.com/milanatran") | Bio: |
 |---|:---|
-| [![Doodle Art of me made by MilanaTran](./images/DoodleMe.png)](href="https://github.com/milanatran")  | Hi, I'm Nermin, also called Nico, holding a degree [International Media & Informatics (IMI)](https://imi-bachelor.htw-berlin.de/) from [HTW Berlin - University of Applied Sciences](https://www.htw-berlin.de/). Learning is the most important skill, and I believe that doing so in a playful, curiosity-driven way is the most effective and natural. Therefore, I aspire to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.<br><br>While learning the ropes of full-stack development, I explore how gamification can be used for positive societal changes and businesses, and against dark-patterns and unethical practices.<br><br>Worked as a student tutor in '22 & '23, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities after my graduation. Additionally, I worked as a development intern at [RisingPixel](https://github.com/RisingPixel) on the [Code Maze](https://embed-project.eu/game-en/) game​ for the [EMBED Project by the EU​](https://embed-project.eu/), creating a level editor for the core game.
+| [![Doodle Art of me made by MilanaTran](./images/DoodleMe.png)](href="https://github.com/milanatran")  | Hi, I'm Nermin, also called Nico, holding a bachelor's degree [International Media & Informatics (IMI)](https://imi-bachelor.htw-berlin.de/) from [HTW Berlin - University of Applied Sciences](https://www.htw-berlin.de/).<br><br>Learning is the most important skill, and I believed that doing so in a playful, curiosity-driven way is the most effective and most natural. Therefore, I once aspired to a career in serious games. Games are also a cornucopia of software engineering topics; varied, versatile, challenging and engaging enough to never get bored.<br><br>Other than that I wanted to make real, useful software for people, such as backend solutions, web and cross platform apps - especially PWAs and Android. It seems though, the market is not in my favor now, so I'll stick to "dev" being my "hobby", and make the stuff I like - money and career isn't everything! :D<br><br>
 
-###  <a href="mailto:n-c0de-r_contact@e.mail.de?subject=Hello from GitHub">`📧 Mail.Me`</a>
+###  <a href="mailto:n-c0de-r_contact@e.mail.de?subject=Hello from GitHub">`Click.Me(toMail)`</a>
 
 <details>
       <summary>additional.info</summary>
 
-- 🔭 When I'm not preparing classes or tutoring, I try to learn more about Game Based Learning.
-- 🎮 Learning Godot & GDScript, Unity & C#. Since I see myself in EduTech and Gamification.
-      Currently doing courses on game engines, physics and AI, while fidgeting with some projects in my free time to show the skills.
-- 🌱 Into Web Dev + JS too, and gained experience with TypeScript. Would love to make more cross-platform web apps.
-- 👯 Starting my internship abroad in winter '23, making Serious Games with [RisingPixel](https://www.risingpixel.com/) and hoping for a long-term working student opportunity after that.
-- 💬 Ask me about pixelart, edutech, good storytelling & game design. I'm a beginner, but passionate about these.
-
-### Other than that I'm striving to make my graduation in...
-[![Logo](./images/logo_imi_alpha.png)](https://imi-bachelor.htw-berlin.de)
+- Into Web Dev, with experience in TypeScript & React (amongst many others). Would love to make more cross-platform web apps professionally.
+- Experienced in Godot/GDScript & Unity/C#. Making "games" & prototypes as a training and artistic expression.
+- Worked as a student tutor in '22 & '23, gaining experience in didactics, and expanding my skills, so I'll be able to design even greater gaming and learning opportunities.
+- Worked as a development intern in '23 & '24 at [RisingPixel](https://github.com/RisingPixel) on the [Code Maze](https://embed-project.eu/game-en/) game​ for the [EMBED Project by the EU​](https://embed-project.eu/), creating a level editor for the core game.
 </details>
 
 <br />
 
-###  `💾 Knowledge.Set`
+###  `Knowledge.Set`
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -41,8 +36,20 @@
 
 ---
 
-## `⚗️ Recent.Projects:`
+## `Recent.Projects:`
 For a more detailed description and implementation details, click the title or the icon to open the respective repo.
+
+#
+[Omnis (Godot4 / GDscript2)](https://github.com/n-c0de-r/Omnis4)
+
+[![Omnis](./images/Omnis4_Icon.png)](https://github.com/n-c0de-r/Omnis4)
+
+A more challenging recreation of the child's game "Simon" with new modes and some accessibility in mind.
+
+```
+By me:
+Idea (partially), design, implementation, art retouch, UI, documentation.
+```
 
 #
 [GLYPHAE (Unity / C#)](https://github.com/n-c0de-r/GLYPHAE)
@@ -68,6 +75,9 @@ Unity guidance, backend coding, code style & design, base game class, minigame m
 ```
 
 #
+<details>
+<summary><code>Older.Projects</code></summary>
+
 [MCE-Translator  (Unity / C#)](https://github.com/SilenceBreakers/NUI-MCE-Translator)
 
 [![MCE-Translator](./images/MCE-Translator_Icon.png)](https://github.com/SilenceBreakers/NUI-MCE-Translator)
@@ -140,63 +150,11 @@ Idea, design, implementation, art retouch, UI, documentation`
 ```
 
 #
-<details>
-<summary>🚧 <code>Works.In.Progress</code></summary>
-
-[TowerDefense (Godot4 / GDscript2)](https://github.com/n-c0de-r/TowerDefense)
-
-[![TowerDefense](./images/WIP_Icon.png)](https://github.com/n-c0de-r/TowerDefense)
-
-A different take on the tower defense genre, where towers don't kill but buff.
-  
-```
-By me (probably):
-Idea, design, implementation, UI, documentation
-```
-
-#
-[Omnis Rewrite in Godot4 (Godot4 / GDscript2)](https://github.com/n-c0de-r/Omnis)
-
-[![Omnis](./images/WIP_Icon.png)](https://github.com/n-c0de-r/Omnis)
-
-Rewriting and finishing the old Omnis project in Godot4. This should then finally work as expected and be future-proof. Might reuse doodle-art from 'I Can't C#'
-
-#
-[Rewrite my personal GitHub Page in (almost) CSS only (HTML5 / CSS3 / NO js!)](https://github.com/n-c0de-r/n-c0de-r.github.io)
-
-[![GitHug.io page](./images/WIP_Icon.png)](https://github.com/n-c0de-r/n-c0de-r.github.io)
-
-Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!
-
-```
-By me:
-Idea, design, implementation, art retouch, UI, documentation.
-```
-
-</details>
-
-<details>
-<summary>📜 <code>Older.Projects</code></summary>
-
 [Tauros Traps (Unity / C#)](https://github.com/n-c0de-r/TaurosTraps)
 
 [![Tauros Traps](./images/TaurosTraps_Icon.png)](https://github.com/n-c0de-r/TaurosTraps)
 
 Create and show perfect mazes to trap the mythological Tauros. Learned new algorithms in this assessment. Unfinished, could be a game.
-
-```
-By me:
-Idea, design, implementation, art retouch, UI, documentation.
-```
-
-#
-[Omnis (Godot3 / GDscript)](https://github.com/n-c0de-r/Omnis)
-
-[![Omnis](./images/Omnis_Icon.png)](https://github.com/n-c0de-r/Omnis)
-
-A more challenging recreation of the child's game "Simon" with new modes with accessibility in mind.
-
-[Note: This entry becomes obsolete once the rewrite is done, replacing it]
 
 ```
 By me:
@@ -230,4 +188,32 @@ Idea, Implementation, UI, documentation, basic testing.
 ```
 
 Some more below and [many others here...](https://github.com/n-c0de-r?tab=repositories)
+</details>
+
+<details>
+<summary><code>Works.In.Progress</code></summary>
+
+[TowerDefense (Godot4 / GDscript2)](https://github.com/n-c0de-r/TowerDefense)
+
+[![TowerDefense](./images/WIP_Icon.png)](https://github.com/n-c0de-r/TowerDefense)
+
+A different take on the tower defense genre, where towers don't kill but buff.
+  
+```
+By me (probably):
+Idea, design, implementation, UI, documentation
+```
+
+#
+[Rewrite my personal GitHub Page in (almost) CSS only (HTML5 / CSS3 / NO js!)](https://github.com/n-c0de-r/n-c0de-r.github.io)
+
+[![GitHug.io page](./images/WIP_Icon.png)](https://github.com/n-c0de-r/n-c0de-r.github.io)
+
+Making a new portfolio page, purely in HTML and CSS - hidden for now. Goal is to showcase enough, while still being a minimalistic, not bloated but fun experience. Also to train CSS, of course!
+
+```
+By me:
+Idea, design, implementation, art retouch, UI, documentation.
+```
+
 </details>
